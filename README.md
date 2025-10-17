@@ -1,4 +1,4 @@
-# Blink-Arduíno
+# Blink-Arduino
 
 ## Parte 1 da ponderada de programação do módulo 4. 
 
@@ -8,12 +8,14 @@ Nesta primeira parte da ponderada, foi pedido os seguintes critérios para entre
 <br>
 <img width="972" height="729" alt="image" src="https://github.com/user-attachments/assets/857d7712-f2ec-4b9c-91ff-36addc232a94" />
 <br>
-- Uma foto do arduíno conectado ao computador e com o LED ligado para evidenciar o funcionamento.
+- Uma foto do arduino conectado ao computador e com o LED ligado para evidenciar o funcionamento.
 <br>
+
 ![arduino](https://github.com/user-attachments/assets/76d3aab9-f479-4493-a57b-1bf96b26adb3)
+
 <br>
 - Um vídeo do funcionamento.
-
+<br>
 Vídeo disponível no seguinte link: https://drive.google.com/drive/folders/1m1jql-neLqsC7oYiniNHdvPibTIjN55-?usp=drive_link 
 <br>
 Desta forma, os critérios pedidos acima foram atendidos.
